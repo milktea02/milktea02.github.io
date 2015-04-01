@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2015
 client: Personal Project
 category: Unity
-description: I followed tutorial at [Unity Tutorial](http://unity3d.com/learn/tutorials/projects/roll-a-ball). Check out the project [here](http://milktea02.github.io/unity/Builds.html)
+description: I followed tutorial at <a href="http://unity3d.com/learn/tutorials/projects/roll-a-ball">Unity</a>. Check out the project <a href="http://milktea02.github.io/unity/Builds.html">here!</a>
 
 ---
