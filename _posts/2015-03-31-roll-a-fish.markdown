@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2015-03-31
-img: fish.png
+img: follafish.png
 alt: image-alt
 project-date: March 2015
 client: Personal Project
