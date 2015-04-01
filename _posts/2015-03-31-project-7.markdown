@@ -5,8 +5,8 @@ date: 2014-03-31
 img: face.png
 alt: image-alt
 project-date: March 2015
-client: The Client
+client: Personal Project
 category: Unity
-description: I followed tutorial at Unity and modified it 
+description: I followed tutorial at [Unity Tutorial](http://unity3d.com/learn/tutorials/projects/roll-a-ball). Check out the project [here](http://milktea02.github.io/unity/Builds.html)
 
 ---
