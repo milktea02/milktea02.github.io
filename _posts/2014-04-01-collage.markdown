@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 4
-date: 2015-05-01
+modal-id: 1
+date: 2014-04-01
 img: meetup.jpg
 alt: image-alt
-project-date: April 2015
+project-date: April 2014
 client: School Project
-category: Android
+category: Python
 description: I followed a tutorial at <a href="http://unity3d.com/learn/tutorials/projects/roll-a-ball">Unity</a>. Check out the project <a href="http://milktea02.github.io/unity/Builds.html">here!</a>
 
 ---
