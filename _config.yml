@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jolene Wong
   location: Location
   social: Around the Web
   credits: Credits
@@ -30,8 +30,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Vancouver, BC
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
@@ -39,3 +38,5 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
