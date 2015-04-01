@@ -6,7 +6,7 @@ img: collage.png
 alt: image-alt
 project-date: April 2014
 project: School Project
-category: Python
+client: Python
 description: A small python script I completed for my <a href="https://sites.google.com/site/ubccpsc301winter2013/">Computing in the Life Sciences</a> course. 
 
 ---

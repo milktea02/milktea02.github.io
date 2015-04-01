@@ -6,7 +6,7 @@ img: meetup.jpg
 alt: image-alt
 project-date: April 2015
 project: School Project
-category: Android
+client: Android
 description: A project I completed for my <a href="https://sites.google.com/site/ubccpsc2102014w2/project">Software Contruction</a> course using Android Studio and Java. 
 
 ---
