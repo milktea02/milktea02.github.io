@@ -7,10 +7,6 @@ alt: image-alt
 project-date: Dec 2014
 client: Personal Project
 category: Circuits
-description: I followed a tutorial at <a href="http://unity3d.com/learn/tutorials/projects/roll-a-ball">Unity</a>. Check out the project <a href="http://milktea02.github.io/unity/Builds.html">here!</a>
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=nXrR2sGwtr0"></iframe>
-</div>
+description: A small circuitry project I did over my winter break in December 2014. Check out the video <a href="https://www.youtube.com/watch?v=nXrR2sGwtr0">here!</a>
 
 ---

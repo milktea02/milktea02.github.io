@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: School Project
 category: Python
-description: I followed a tutorial at <a href="http://unity3d.com/learn/tutorials/projects/roll-a-ball">Unity</a>. Check out the project <a href="http://milktea02.github.io/unity/Builds.html">here!</a>
+description: A small python script I completed for my <a href="https://sites.google.com/site/ubccpsc301winter2013/">Computing in the Life Sciences</a> course. 
 
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2015
 client: School Project
 category: Android
-description: I followed a tutorial at <a href="http://unity3d.com/learn/tutorials/projects/roll-a-ball">Unity</a>. Check out the project <a href="http://milktea02.github.io/unity/Builds.html">here!</a>
+description: A project I completed for my <a href="https://sites.google.com/site/ubccpsc2102014w2/project">Software Contruction</a> course using Android Studio and Java. 
 
 ---
