@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2015-05-23
+img: monitor.jpg
+alt: image-alt
+project-date: May 2015
+client: Personal Project
+service: Hardware
+description: One day my second hand desktop 22" BenQ monitor decided to stop working. It turns out that the power board had some bad capacitors that needed to be replaced. I am happy to say that it is now working again and my hands and face are still intact.
+
+---
