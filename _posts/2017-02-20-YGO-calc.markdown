@@ -7,7 +7,7 @@ alt: image-alt
 project-date: February 2017
 client: Personal Project
 service: Android
-description: Followed a calculator tutorial for android then modified it to create a Life Point (LP) calculator for the card game YuGiOh that keeps track of incrementing and decrementing LP between two players.
+description: Followed a calculator tutorial for android then modified it to create a Life Point (LP) calculator for the card game YuGiOh that keeps track of incrementing and decrementing LP between two players. <a href="https://github.com/milktea02/SimpleCalcApp/releases">Here for APK</a>
 
 
 ---
