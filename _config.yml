@@ -28,13 +28,6 @@ social:
     url: https://twitter.com/JWo_ubc/
   - title: github
     url: https://github.com/milktea02
-  - title: steam
-    url: https://steamcommunity.com/id/milktea02/
-
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Vancouver, BC
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
