@@ -1,5 +1,6 @@
 README:
 
+|Name   | version|
 |-------|--------|
 |ruby	| v3.0.0|
 |jekyll | v4.2.0|
