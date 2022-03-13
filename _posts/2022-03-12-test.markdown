@@ -1,0 +1,13 @@
+---
+layout: post
+modal-id: 8
+date: 2022-03-12 
+img: ygo_calc.jpg
+alt: image-alt
+project-date: March 2022
+client: Personal Project
+service: web 
+
+---
+
+test:

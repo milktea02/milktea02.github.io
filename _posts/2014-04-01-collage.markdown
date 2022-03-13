@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: 2
 date: 2014-04-01
 img: collage.png
@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: School Project
 service: Python
-description: A small python script I completed for my <a href="https://sites.google.com/site/ubccpsc301winter2013/">Computing in the Life Sciences</a> course. 
 
 ---
+A small python script I completed for my <a href="https://sites.google.com/site/ubccpsc301winter2013/">Computing in the Life Sciences</a> course. 

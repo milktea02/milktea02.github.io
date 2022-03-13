@@ -37,5 +37,5 @@ $ gem install bundler jekyll
 Migrating from outdate jekyll theme to updated generic minima theme
 
 1. need to move everything from the Front Matter 
-  - the `content` section to the section outside of ---
+  - the `content` section to the section outside of `---`
 
