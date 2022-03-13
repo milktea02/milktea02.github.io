@@ -38,4 +38,5 @@ Migrating from outdate jekyll theme to updated generic minima theme
 
 1. need to move everything from the Front Matter 
   - the `content` section to the section outside of `---`
+2. Migrate old `.html` files into `.md` using `latout: default`
 
