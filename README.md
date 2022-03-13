@@ -6,6 +6,12 @@ README:
 |jekyll | v3.9.0|
 |bundler| v2.1.4|
 
+Install gems from Gemfile:
+
+```
+bundler install
+```
+
 Run locally:
 
 ```
