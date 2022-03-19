@@ -1,13 +1,12 @@
 ---
+title: Updating my personal webpage I think
 layout: post
 modal-id: 8
-date: 2022-03-12 
-img: ygo_calc.jpg
-alt: image-alt
+date: 2022-03-18 
 project-date: March 2022
 client: Personal Project
 service: web 
 
 ---
 
-test:
+After years of letting this Jekyll powered page live on github, and also over a year of a branch to update this page I'm finally sitting down and updating it. :)

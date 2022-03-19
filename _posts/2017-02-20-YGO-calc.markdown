@@ -3,12 +3,13 @@ layout: page
 title: 'Android App: YGO LP Calculator'
 modal-id: 7
 date: 2017-02-20
-img: ygo_calc.jpg
+#img: ygo_calc.jpg
 alt: image-alt
 project-date: February 2017
 client: Personal Project
 service: Android
 ---
+![Screenshot of YGO LP calculator app](/assets/2017-02-20/ygo_calc.png)
 
 Followed a calculator tutorial for android then modified it to create a Life Point (LP) calculator for the card game YuGiOh that keeps track of incrementing and decrementing LP between two players. <a href="https://github.com/milktea02/SimpleCalcApp/releases">Here for APK</a>
 
